@@ -14,6 +14,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/miuicamera-pissarro/proprietary/system/lib64/libcameraservice.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcameraservice.so \
     vendor/xiaomi/miuicamera-pissarro/proprietary/system/lib64/libcamera_client.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcamera_client.so \
     vendor/xiaomi/miuicamera-pissarro/proprietary/system/lib64/libcamera2ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcamera2ndk.so \
+    vendor/xiaomi/miuicamera-pissarro/proprietary/system/lib64/libcamera_metadata.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcamera_metadata.so \
     vendor/xiaomi/miuicamera-pissarro/proprietary/system/lib64/vendor.mediatek.hardware.camera.isphal@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.mediatek.hardware.camera.isphal@1.0.so
 
 PRODUCT_PACKAGES += \
